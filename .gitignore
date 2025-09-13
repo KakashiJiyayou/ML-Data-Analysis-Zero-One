@@ -1,0 +1,15 @@
+# Ignore all CSV files in the project
+*.csv
+
+# Or ignore CSV files but keep specific ones
+*.csv
+!important_data.csv
+
+# Common data file patterns
+*.csv
+*.xlsx
+*.xls
+*.json
+*.xml
+*.db
+*.sqlite
